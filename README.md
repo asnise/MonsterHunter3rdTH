@@ -1,1 +1,3 @@
-# MonsterHunter3rdTH
+# MonsterHunter3rdTH/
+#คำกลาง/
+มอนสเตอร์,ไอเทม,อาวุธ จะใช้ชื่อเป็นภาษาอังกฤษ
