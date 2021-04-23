@@ -1,0 +1,53 @@
+เช็ค เมมโมรี่สติ๊ก Duo~B10.<NEWLINE><NEWLINE>อย่า ปิดเกมจนจะโหลดเสร็จ PSP~B11 <NEWLINE>ระบบจะลบข้อมูล Duo~B10.
+โหลดเสร็จ
+Game data is corrupted.
+Not enough free space available<NEWLINE>on Memory Stick Duo~B10.
+Would you like to save?
+~A00KB is required to save this data.<NEWLINE>Delete other data and create free space?
+Save this character?
+Please select a save location.
+Please do not remove the Memory Stick Duo~B10<NEWLINE>while playing Monster Hunter Portable 3rd~B11.
+Character already exists.<NEWLINE>Delete previously saved character?
+Would you like to save here?
+No character data found.<NEWLINE>Please insert the Memory Stick Duo~B10<NEWLINE>containing previously saved Game data. 
+โหลด ตัวละคร?
+Character selected.<NEWLINE>Please do not remove the Memory Stick Duo~B10<NEWLINE>while playing Monster Hunter Portable 3rd~B11.
+เวลา
+ชาย
+หญิง
+เงิน
+เซฟ ว่าง
+เซฟ...<NEWLINE><NEWLINE>อย่าลบข้อมูลของ <NEWLINE>เมมโมรี่สติ๊ก Duo~B10. 
+TMO PATCH<NEWLINE><NEWLINE>Version: ~C03PS3 v5.0.0~C00 (~C06r28~C00)<NEWLINE>Language: ~C04en_us<NEWLINE>~C00Built using ~C08MHP3 Patch Compiler v4.01<NEWLINE>~C052013-06-15 19:16:20
+This game requires at least ~A00KB to save.<NEWLINE>Continue?
+Save Game Settings?
+There is already Game data on the Memory Stick Duo~B10.<NEWLINE>OK to overwrite this data?
+เลือก ตัวละคร.
+The Memory Stick Duo~B10 used to start<NEWLINE>this game is not inserted.<NEWLINE>Please insert the Memory Stick Duo~B10<NEWLINE>used to start this game.
+เซฟ เกม
+ออก เกม?
+If you quit now without saving,<NEWLINE>all items and any money（Z）<NEWLINE>you've earned will be lost.
+Delete corrupted Game data?
+Save Gallery status?
+%s<NEWLINE>Unable to load Installed Data.<NEWLINE>All data will be loaded from the UMD.<NEWLINE><NEWLINE>Data Install Option has been switched to<NEWLINE>"OFF".
+No Memory Stick Duo~B10 found.
+No Media Install data found.
+Media Install data is corrupted.<NEWLINE>Please re-install the Media Install data.
+%s<NEWLINE>Install Data load failed mid-Quest.<NEWLINE>All data will be loaded from the UMD~B11.<NEWLINE><NEWLINE>Data Install Option has been switched to<NEWLINE>"OFF".
+No Memory Stick Duo~B10 found.
+No Media Install data found.
+Media Install data is corrupted.<NEWLINE>Please re-install the Media Install data.
+%s<NEWLINE>Install Data load failed during transmission.<NEWLINE>All data will be loaded from the UMD.<NEWLINE><NEWLINE>Data Install Option has been switched to<NEWLINE>"OFF".
+%s<NEWLINE>Install Data load failed while viewing the<NEWLINE>Gallery. All data will be loaded from the<NEWLINE>UMD.<NEWLINE><NEWLINE>Data Install Option has been switched to<NEWLINE>"OFF".
+%4d:%02d
+%7dz
+１
+２
+３
+Abort loading?
+~B12~C34Save~C00~B13　　Exit without saving　
+　Save　　~B12~C34Exit without saving~C00~B13
+The Memory Stick Duo~B10 was removed.
+Checking the Memory Stick Duo~B10<NEWLINE>Please do not remove the Memory Stick Duo~B10.
+เซฟ...<NEWLINE><NEWLINE>อย่าลบข้อมูลของ <NEWLINE>เมมโมรี่สติ๊ก Duo~B10.
+Could not load the quest data<NEWLINE>from the Memory Stick Duo~B10.<NEWLINE><NEWLINE>Do you want to display the<NEWLINE>included bonus content?

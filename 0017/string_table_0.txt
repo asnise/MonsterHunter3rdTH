@@ -1,0 +1,2013 @@
+<EMPTY STRING>
+－－－－－－－－
+－－－－－－
+－－－－－
+Qty
+[%s]
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+★
+/
+Cfrm
+G
+Cancel
+Yes
+No
+~B12~C34Yes~C00~B13　　No　
+　Yes　　~B12~C34No~C00~B13
+~B12~C34Exchange~C00~B13　　Remove　
+　Exchange　　~B12~C34Remove~C00~B13
+%d
+%1d
+%2d
+%3d
+%4d
+%5d
+%6d
+%7d
+%4dz
+%5dz
+%7dz
+%4dpts
+%5dpts
+%7dpts
+-------z
+-------pts
+~B00Cfrm
+~B01Back
+~B03Back
+~B03~B01Back
+~B02Info
+~B03Skill Info
+~B03Equip Info
+~B00Slct
+~B00Unselect
+~B06　Finish
+~B07　Sort
+~B06　Camera Settings
+~B08Rotate
+~B09Camera
+~B06　Menu
+~B01Confirm and Exit
+~B00Color
+~B03Switch Equipment
+~B03~B00Cfrm
+~B06　Edit Set Name
+~B06　Reg Set
+~B01Cancel
+~B07　View by Name
+~B07　View by Skills
+~B07　Change Class
+~B03Map Zoom In
+~B03Map Zoom Out
+~B02Beacon
+~B03Move List
+~B02Set Order
+~B02Order List
+~B07　Default
+~B02Amount
+~B06　Begin
+~B01Cancel
+~B06　Back
+~B03Switch
+~B02Details
+~B06　Edit Set Name
+~B03More Details
+~B07　View
+~B02Sell
+~B03Compare
+~B03Details
+~B03Hide Weapon
+~B03Show Weapon
+~B01Unselect
+~B03Skill Info
+~B00Screen Effect Settings
+x%2d
+ ∞
+Select the item<NEWLINE>to be exchanged.<NEWLINE>
+Item has been exchanged.
+Sell remaining items?<NEWLINE>OK?　
+Place item into Item Bag. When<NEWLINE>the Item Bag is full, you can<NEWLINE>swap with other items.
+Send to Item Box. If the Item Box<NEWLINE>is full, you will not be able to<NEWLINE>send any more items to it.
+Sell remaining items and exit.
+Highlight the item to receive,<NEWLINE>then put it in the Item Bag.<NEWLINE>
+Highlight the item to receive,<NEWLINE>then send it to the Item Box.<NEWLINE>
+~C02Item box is full.
+Highlight an item.<NEWLINE>Please put the item to inventory.<NEWLINE>~C02You can not have more!
+Highlight an item.<NEWLINE>Please send to the Item Box.<NEWLINE>~C02Item Box is full!
+Sell remaining items?
+Sell remaining items?
+Sell remaining items?
+For items sent to the box<NEWLINE>unidentified expert.
+Please put the items remaining<NEWLINE>to the inventory
+Please put the items remaining<NEWLINE>to the inventory<NEWLINE>~C02You can not have more!
+Please put the items remaining<NEWLINE>to Item Box
+Please put the items remaining<NEWLINE>to Item Box<NEWLINE>~C02Item Box is full
+Returning to village in 20 seconds
+Returning to village in 1 minute
+Quest completed!
+Reward decreased by %dz
+Time Left: %dmin
+Good work!
+Quest failed...
+Time limit: %dmin
+Time's up!
+Supply items delivered.
+Deliveries possible for 20 secs!
+Objective cleared!
+Victory!
+One monster left!
+Two monsters left!
+Five monsters left!
+10 monsters left!
+20 monsters left!
+One monster left!
+Two monsters left!
+Five monsters left!
+10 monsters left!
+20 monsters left!
+Entering the Final Showdown.
+Dragonator is ready for use.
+Hunting Gong is ready for use.
+Ballista Binder is ready for use.
+Ship has been destroyed.
+Successfully repelled Jhen Mohran!
+Ship integrity down to 50%
+Ship integrity down to 30%
+Ship integrity down to 10%
+z
+Value
+Amount
+――――――――
+RARE-%d
+Required Slots
+Time Left
+Quest Items
+Subtotal
+Yukumo Points
+Current Total
+Total Yukumo Points
+Discard
+Give
+Deliver
+Exchange
+Exchange
+Discard
+Dummy
+Quit
+Combo List
+Monster List
+Comrade Status
+100%
+95%
+90%
+85%
+75%
+65%
+55%
+－－－－
+Name
+Alias
+Type
+Risk
+No. (Capture)
+Largest
+Smallest
+★
+%4d(%4d)
+%4d~C10(----)
+%4d.%02dcm
+----cm
+－－－－
+Lynian
+Neopteron
+Piscine Wyvern
+Herbivore
+Bird Wyvern
+Fanged Beast
+Flying Wyvern
+Fanged Wyvern
+Brute Wyvern
+Leviathan
+Elder Dragon
+－－－－
+Dog Wyvern
+Sleeping Dog Wyvern
+Poison Dog Wyvern
+Blue Bear Beast
+White Rabbit Beast
+Red Armored Beast
+Large Boar
+Female Fire Wyvern
+Golden Fire Wyvern
+Fire Wyvern
+Silver Fire Wyvern
+Colorful Bird
+Crimson Colorful Bird
+Creeping Venom Wyvern
+Creeping Thunder Wyvern
+Ice Fang Wyvern
+Tornado Tusk Wyvern
+Horned Wyvern
+Black Horned Wyvern
+Violent Wyvern
+Landslide Wyvern
+Snowslide Wyvern
+Burst Hammer Wyvern
+Steel Hammer Wyvern
+Water Beast
+Purple Water Beast
+Fire-Pike Wyvern
+Frozen-Halberd Wyvern
+Mountain Peak Dragon
+Blazing Black Dragon
+Roaring Wyvern
+Black Roaring Wyvern
+Swift Wyvern
+Green Swift Wyvern
+Supremacy Wyvern
+Avalanche Wyvern
+Thunder Wolf Wyvern
+Storm Dragon
+Latent Mouth Wyvern
+Hammer Tail Wyvern
+Aquatic Beast
+Lava Beast
+Herbivorous Monster
+Beetle
+Flying Beetle
+Round Bird
+Drooping Hide Monster
+Bipedal creatures resembling cats,<NEWLINE>known for their light hair. Though<NEWLINE>usually docile, they will attack<NEWLINE>viciously if provoked. Naturally<NEWLINE>curious, some try to enter human<NEWLINE>society. Fond of Felvine, they<NEWLINE>will follow its scent anywhere.
+Bipedal creatures resembling cats,<NEWLINE>known for their dark hair. More<NEWLINE>curious than Felynes and possessed<NEWLINE>by kleptomania, Melynxes take what<NEWLINE>they can steal back to their dens.<NEWLINE>Felvine intoxicates them, causing<NEWLINE>them to sometimes drop items.
+Insects that inhabit many areas.<NEWLINE>Noted for absorbing fruit, mush-<NEWLINE>rooms, and honey, then carrying<NEWLINE>them back to their nest. Materials<NEWLINE>can thus be collected from their<NEWLINE>swollen abdomens, whose color is<NEWLINE>related to what is being carried.
+Flying insects that inhabit most<NEWLINE>environments. They attack invaders<NEWLINE>with a paralyzing venom and lay<NEWLINE>eggs in carrion together with a<NEWLINE>fluid that hastens decomposition.<NEWLINE>As their bodies are fragile, use<NEWLINE>poison for harvesting their parts.
+Carnivorous monsters that inhabit<NEWLINE>deserts. Delex always travel in<NEWLINE>schools of five or six. When near<NEWLINE>large monsters on a hunt, they<NEWLINE>attempt to surround the prey and<NEWLINE>scavenge food. Known to flee if<NEWLINE>other Delex are injured.
+Herbivorous, deer-like monsters.<NEWLINE>Valued for their horns, they tend<NEWLINE>to run away at the first hint of<NEWLINE>danger. They are also hunted for<NEWLINE>their meat, which is chewy but<NEWLINE>flavorful.
+Relatively docile herbivores with<NEWLINE>characteristic crest plates. They<NEWLINE>form herds and raise young commun-<NEWLINE>ally, and have been used as pack<NEWLINE>animals for generations; their<NEWLINE>meat is tasty and nutritious. Very<NEWLINE>cautious around large monsters.
+Extremely territorial herbivores<NEWLINE>with poor vision but acute<NEWLINE>hearing. Rhenoplos will doggedly<NEWLINE>pursue any nearby targets they<NEWLINE>sense.
+Herbivores that live near water in<NEWLINE>the Volcano and Flooded Forest.<NEWLINE>Their heavy hides store nutrients,<NEWLINE>and are prized for their resistance<NEWLINE>to heat and water. Males are quite<NEWLINE>territorial, often refusing to flee<NEWLINE>even from invading wyverns.
+Herbivores that live in cold<NEWLINE>climates. Generally docile, though<NEWLINE>they attack when threatened. Their<NEWLINE>high-quality pelts have many uses,<NEWLINE>and their antlers are highly<NEWLINE>prized by the Guild. Simply stun<NEWLINE>the creatures to harvest one.<NEWLINE>
+Herd-forming herbivores. Covered<NEWLINE>in thick fur to endure the cold.<NEWLINE>Popo are gentle, but known to use<NEWLINE>their massive tusks bravely when<NEWLINE>defending their young. Popo meat<NEWLINE>is very nutritious; the tongue is<NEWLINE>said to be especially palatable.
+Flightless bird wyverns with<NEWLINE>vestigial wings. They can often be<NEWLINE>found roaming wild in the Misty<NEWLINE>Peaks, but are also raised as<NEWLINE>livestock in Yukumo Village. Quite<NEWLINE>timid, Gargwa have been known to<NEWLINE>lay eggs when startled.
+Highly social, carnivorous bird<NEWLINE>wyverns that live in large packs.<NEWLINE>Young Jaggi males hunt in groups<NEWLINE>when attacking larger animals, and<NEWLINE>have been known to steal wyvern<NEWLINE>eggs. Research suggest they act<NEWLINE>under orders from an alpha male.
+Female Jaggi that stay in groups,<NEWLINE>Jaggia generally cluster around<NEWLINE>the nest to defend it and raise<NEWLINE>whelps. Smaller than mature males,<NEWLINE>but larger than and tougher than<NEWLINE>the countless young males.
+The commanding alpha male of Jaggi<NEWLINE>packs. Most males leave the group<NEWLINE>upon reaching maturity, returning<NEWLINE>to compete with others. The<NEWLINE>dominant male then becomes a Great<NEWLINE>Jaggi. Apparently, they can issue<NEWLINE>fairly complex orders via howling.
+Highly intelligent, carnivorous<NEWLINE>Bird Wyverns that hunt in packs.<NEWLINE>Noted for their blue scales and<NEWLINE>sharp glare. Baggi are feared for<NEWLINE>their ability to release a<NEWLINE>tranquilizing fluid; it can knock<NEWLINE>out even humans.
+Carnivorous bird wyverns like the<NEWLINE>Jaggi. Noted for their projecting<NEWLINE>cranial crests and bluish-white<NEWLINE>skin that's adapted to snow. Great<NEWLINE>Baggi craftily command other Baggi<NEWLINE>to surround their prey and stun<NEWLINE>them with a tranquilizing fluid.
+Small, carnivorous bird wyverns<NEWLINE>with poison-generating organs.<NEWLINE>They run in packs, often led by a<NEWLINE>large alpha male. Lesser members<NEWLINE>of the order are fiercely loyal,<NEWLINE>and will eagerly lay down their<NEWLINE>lives to protect the alpha.
+Bird wyverns that spit a poisonous<NEWLINE>mist. Wroggi travel in packs that<NEWLINE>are led by the largest and most<NEWLINE>toxic member. The poison is made<NEWLINE>in a sac-like organ around its<NEWLINE>throat; if destroyed, the wyvern's<NEWLINE>ability to spit is impaired.
+Bird Wyverns with unique plumage.<NEWLINE>Well known for using their<NEWLINE>thoracic vocal organs to imitate<NEWLINE>other monsters' calls, first<NEWLINE>summoning them, then using the<NEWLINE>distraction to flee. Spits a<NEWLINE>dangerous combustible body fluid.
+A subspecies of Qurupeco with<NEWLINE>vivid crimson plumage and the same<NEWLINE>aptitude for mimicry and dance.<NEWLINE>Flints in their wings allow them<NEWLINE>to generate electricity, which can<NEWLINE>be discharged as either shocking<NEWLINE>jolts or intense flashes of light.
+A large wild boar. Foul tempered,<NEWLINE>they will charge hunters on sight.<NEWLINE>They are aggressive and powerful,<NEWLINE>so beware! They are often hunted<NEWLINE>for their meat, which many<NEWLINE>hunters find delicious.
+The powerful leader of the wild<NEWLINE>boars known for its enormous<NEWLINE>tusks. More aggressive than a<NEWLINE>Bullfango, it is known to rush<NEWLINE>into a fight, and is extremely<NEWLINE>proficient at locating a foe.
+Forest- and mountain-dwelling<NEWLINE>beasts found in humid regions.<NEWLINE>Though known more for fishing and<NEWLINE>standing upright to collect honey,<NEWLINE>their thick claws and heavy<NEWLINE>forearm plating allow them to deal<NEWLINE>powerful blows to any aggressor.
+Fanged beasts whose warm pelts and<NEWLINE>thick layers of fat help them to<NEWLINE>survive in harsh colder climates.<NEWLINE>Though mainly herbivores, Lagombi<NEWLINE>occasionally make use of their<NEWLINE>exceptional hearing and ability to<NEWLINE>glide on ice to sneak up on prey.
+Fanged beasts with thick, red<NEWLINE>carapaces resistant to lava. Their<NEWLINE>rounded bodies are perfect for<NEWLINE>rolling across hot surfaces, and<NEWLINE>their long tongues are ideal for<NEWLINE>capturing insect prey. Their<NEWLINE>saliva emits a paralyzing toxin.
+Barroth usually remain beneath the<NEWLINE>mud, perhaps to shield themselves<NEWLINE>from heat; they are even known to<NEWLINE>attack by flinging mud. They will<NEWLINE>charge in a frenzy at anything<NEWLINE>that disturbs their bogs.
+A subspecies of Barroth found in<NEWLINE>colder climates. Lacking mud, they<NEWLINE>coat themselves with snow and ice,<NEWLINE>which can be flung at threats.<NEWLINE>They are known for bashing their<NEWLINE>overgrown crowns into the ice, and<NEWLINE>subsist primarily on Bnahabra.
+Brute wyverns that feed on ore,<NEWLINE>using their mighty jaws to crush<NEWLINE>bedrock into powder. They cleverly<NEWLINE>affix rock and ore to themselves<NEWLINE>with lava, then spread them about,<NEWLINE>using vibrations to make them<NEWLINE>explode.
+A metallic subspecies of Uragaan<NEWLINE>with an unusual diet that allows<NEWLINE>it to create a powerful, noxious<NEWLINE>gas. The gas permeates the rocks<NEWLINE>on its body, which then emit foul<NEWLINE>fumes when scattered. Like regular<NEWLINE>Uragaan, they can roll to travel.
+Giant brute wyverns with hammer-<NEWLINE>like growths on their tails. They<NEWLINE>subsist on fallen or withered<NEWLINE>trees, often using their tails to<NEWLINE>knock said trees over. Researchers<NEWLINE>speculate that the lumps on their<NEWLINE>backs act as an energy source.
+The dreaded, nomadic Deviljho have<NEWLINE>no specific territory of their own<NEWLINE>Their muscles swell if provoked,<NEWLINE>revealing old wounds. Needing to<NEWLINE>feed constantly due to high<NEWLINE>body heat, they can hunt nearby<NEWLINE>animals to extinction.
+Aquatic female monsters. Ludroth<NEWLINE>form "harems" around large males,<NEWLINE>hence gathering in territories<NEWLINE>designated as breeding grounds.<NEWLINE>They are known to be extremely<NEWLINE>aggressive towards outsiders;<NEWLINE>caution is advised.
+Royal Ludroth use their sponge<NEWLINE>like neck scales to absorb water<NEWLINE>and prevent drying out on land.<NEWLINE>Once the sponge loses moisture,<NEWLINE>they attempt to re-enter the<NEWLINE>water. They also spew mucus to<NEWLINE>trip up their prey.
+A Royal Ludroth subspecies with a<NEWLINE>spongy purple mane that can both<NEWLINE>store and disperse a powerful<NEWLINE>toxin. Moistening this mane seems<NEWLINE>to revitalize the creature, so it<NEWLINE>prefers to reside in watery areas.
+Leviathan species that live in the<NEWLINE>Sandy Plains. Known to lurk in the<NEWLINE>sand, they mimic sand dunes to<NEWLINE>catch unsuspecting prey. They can<NEWLINE>produce wind tunnels.
+Leviathans that inhabit volcanoes.<NEWLINE>Noted for swarming around larger<NEWLINE>monsters' kills in order to feed.<NEWLINE>Uroktor rarely hunt for themselves<NEWLINE>but stab upward at prey from the<NEWLINE>ground when they do. Known for<NEWLINE>being highly aggressive.
+Also known as fire-pike wyverns,<NEWLINE>Agnaktor use their tough beaks and<NEWLINE>great strength to burrow through<NEWLINE>rock. However, their hardened-lava<NEWLINE>armor becomes soft when they<NEWLINE>burrow underground or are attacked<NEWLINE>with fire or explosives.
+A Tundra-based subspecies of<NEWLINE>Agnaktor that spits powerful jets<NEWLINE>of water. Its sharp beak allows it<NEWLINE>to burrow into the permafrost and<NEWLINE>clad itself in a layer of ice.<NEWLINE>This icy armor can only be melted<NEWLINE>with heat-based attacks.
+Fire-breathing female wyverns,<NEWLINE>also known as the "Queens of the<NEWLINE>Land". With powerful legs and<NEWLINE>poison-secreting tails, they hunt<NEWLINE>mainly on the ground. Sometimes<NEWLINE>seen preying as a couple, Rathian<NEWLINE>cooperate well with Rathalos.
+A rare variant of Rathian with a<NEWLINE>beautiful golden body reminiscent<NEWLINE>of the moon. Little is known about<NEWLINE>their behavior or physiology--<NEWLINE>including the source of their rich<NEWLINE>golden sheen.
+Terrible wyverns called the 'Kings<NEWLINE>of the Skies'. Together with<NEWLINE>Rathian, they stake wide territor-<NEWLINE>ies centered around their nests.<NEWLINE>Rathalos descend on invaders from<NEWLINE>the sky, attacking with poison<NEWLINE>claws and breath of fire.
+A rare variant of Rathalos with a<NEWLINE>beautiful silver body reminiscent<NEWLINE>of the sun. Little is known about<NEWLINE>their behavior or physiology--<NEWLINE>including the source of their rich<NEWLINE>silver sheen.
+Wyvern larvae. Reasonably fecund,<NEWLINE>they can survive in any dark<NEWLINE>environment. Giggi are sensitive<NEWLINE>to light and heat, and so avoid<NEWLINE>torches. They are also known to<NEWLINE>leech from other animals,<NEWLINE>converting it into toxins.
+Wyverns that inhabit the Tundra.<NEWLINE>Gigginox live in darkness and thus<NEWLINE>have degraded vision; they detect<NEWLINE>prey via body heat, then attack<NEWLINE>with poison. When excited, their<NEWLINE>color changes and parts of their<NEWLINE>body harden. Extremely fertile.
+A subspecies of Gigginox that uses<NEWLINE>electricity to stun prey. It is<NEWLINE>believed to be a random mutation,<NEWLINE>and as such, sightings are rather<NEWLINE>rare. It may be possible to weaken<NEWLINE>its electrical powers by breaking<NEWLINE>the capacitor organs on its body.
+Wyverns that rule the eternally<NEWLINE>frozen Tundra. Barioth use their<NEWLINE>huge tusks and spiked scales to<NEWLINE>move freely atop the slippery ice;<NEWLINE>this ability makes them very<NEWLINE>difficult to keep up with.
+A Barioth subspecies that resides<NEWLINE>in the Sandy Plains. Their breath<NEWLINE>is strong enough to generate<NEWLINE>tornadoes, which they then use to<NEWLINE>travel at high speeds. Their<NEWLINE>yellow carapaces are tinted red,<NEWLINE>and their fangs shine deep blue.
+Flying wyverns that have evolved<NEWLINE>to live in thickly wooded areas.<NEWLINE>These sly beasts stalk their prey<NEWLINE>from the shadows with ferocious<NEWLINE>speed and dogged tenacity, and<NEWLINE>their massive tails are as<NEWLINE>dexterous as they are deadly.
+A Nargacuga subspecies with<NEWLINE>mottled fur that allows it to<NEWLINE>blend into the foliage of verdant<NEWLINE>areas like the Flooded Forest and<NEWLINE>the Deserted Island. It is skilled<NEWLINE>in the use of its tail, the spikes<NEWLINE>of which are extremely deadly.
+Two-horned wyverns found in desert<NEWLINE>zones. They are capable of<NEWLINE>burrowing into sand to attack prey<NEWLINE>from below. Incredibly violent and<NEWLINE>proud, they are known to unleash<NEWLINE>terrible wrath when accosted.
+These black-shelled Diablos are<NEWLINE>treated as a subspecies, but are<NEWLINE>actually just normal female<NEWLINE>Diablos in heat. The color change<NEWLINE>is a warning to other creatures,<NEWLINE>as they tend to become extremely<NEWLINE>aggressive during mating season.
+A flying wyvern that maintains its<NEWLINE>primitive origins. Prone to<NEWLINE>violence, it possesses incredible<NEWLINE>ferocity thanks to its four limbs,<NEWLINE>claws, and jaws. Inhabits a wide<NEWLINE>area, it has even been spotted<NEWLINE>hunting Popo in the mountains.
+Tigrex subspecies with very<NEWLINE>violent and aggressive behavior.<NEWLINE>Their limbs are developed for<NEWLINE>charging. They are feared by many<NEWLINE>for their powerful jaws and<NEWLINE>striking claws.
+A wyvern truly wrapped in mystery.<NEWLINE>Known to some as the black god and<NEWLINE>to others as the tyrant of fire,<NEWLINE>this large and brutal creature is<NEWLINE>known to the Guild simply as<NEWLINE>Akantor...
+A mysterious wyvern. Known locally<NEWLINE>by some as the White God, although<NEWLINE>the Guild refers to it as the<NEWLINE>Avalanche Wyvern, for it crushes<NEWLINE>rock and gorges through ice.
+Fanged wyverns whose bodies are<NEWLINE>streaked with electricity. Sharp<NEWLINE>claws and strong limbs allow them<NEWLINE>to thrive in mountainous terrain.<NEWLINE>During hunts, they gather numerous<NEWLINE>Thunderbugs to boost their power<NEWLINE>and enter a supercharged state.
+Rare ore can be mined from these<NEWLINE>enormous dragons' backs; thus they<NEWLINE>are considered prosperity symbols.<NEWLINE>They swallow vast amounts of<NEWLINE>organic material and are always<NEWLINE>surrounded by scavenging Delex,<NEWLINE>which sailors use to locate them.
+Deep within the Misty Peaks,<NEWLINE>an Elder Dragon descends onto the<NEWLINE>Mountain Summit. It appears as the<NEWLINE>personification of a large storm<NEWLINE>and its appearance has become a<NEWLINE>Yukumo Village tradition.
+Blazing black dragons, so named<NEWLINE>for resembling both lightning and<NEWLINE>darkness. They mercilessly tear<NEWLINE>apart whoever touches their sharp<NEWLINE>scales. Elementally unstable,<NEWLINE>their actions can affect the very<NEWLINE>weather. Living natural disasters.
+ＮＯ　ＤＡＴＡ
+Rathian
+Rathalos
+Qurupeco
+Gigginox
+Barioth
+Diablos
+Deviljho
+Barroth
+Uragaan
+Jaggi
+Jaggia
+Great Jaggi
+Baggi
+Great Baggi
+Rathian
+Royal Ludroth
+Ludroth
+Rathalos
+Agnaktor
+Diablos
+Uroktor
+Delex
+Tigrex
+Alatreon
+Jhen Mohran
+Giggi
+Aptonoth
+Popo
+Rhenoplos
+Felyne
+Melynx
+Nargacuga
+Altaroth
+Kelbi
+Gigginox Egg
+Bnahabra
+Bnahabra (Plains)
+Bnahabra (Tundra)
+Bnahabra (Volcano)
+Zinogre
+Amatsu Magatsuchi
+Arzuros
+Lagombi
+Volvidon
+Great Wroggi
+Duramboros
+Nibelsnarf
+Wroggi
+Slagtoth
+Gargwa
+Qurupeco
+Gigginox
+Barioth
+Barroth
+Uragaan
+Royal Ludroth
+Agnaktor
+Tigrex
+Nargacuga
+Akantor
+Ukanlos
+Bulldrome
+Bullfango
+Anteka
+Cart Felyne
+Nyanjiro
+Veggie Elder
+Slagtoth
+Rock
+Rock (Plains)
+Rock (Forest)
+Rock (Tundra)
+Rock (Volcano)
+Rock (Peaks)
+ＮＯ　ＤＡＴＡ
+Rathian
+Rathalos
+Qurupeco
+Gigginox
+Barioth
+Diablos
+Deviljho
+Barroth
+Uragaan
+Jaggi
+Jaggia
+Great Jaggi
+Baggi
+Great Baggi
+Gold Rathian
+Royal Ludroth
+Ludroth
+Silver Rathalos
+Agnaktor
+Black Diablos
+Uroktor
+Delex
+Black Tigrex
+Alatreon
+Jhen Mohran
+Giggi
+Aptonoth
+Popo
+Rhenoplos
+Felyne
+Melynx
+Green Nargacuga
+Altaroth
+Kelbi
+Gigginox Egg
+Bnahabra
+Bnahabra
+Bnahabra
+Bnahabra
+Zinogre
+Amatsu Magatsuchi
+Arzuros
+Lagombi
+Volvidon
+Great Wroggi
+Duramboros
+Nibelsnarf
+Wroggi
+Slagtoth
+Gargwa
+Crimson Qurupeco
+Baleful Gigginox
+Sand Barioth
+Jade Barroth
+Steel Uragaan
+Purple Ludroth
+Glacial Agnaktor
+Tigrex
+Nargacuga
+Akantor
+Ukanlos
+Bulldrome
+Bullfango
+Anteka
+Cart Felyne
+Nyanjiro
+Veggie Elder
+Slagtoth
+Rock
+Rock (Plains)
+Rock (Forest)
+Rock (Tundra)
+Rock (Volcano)
+Rock (Peaks)
+Quest Details
+Current Quest Details
+Quest Name
+!INTRUSION!
+Monsters Hunted
+Items Delivered
+Ship Integrity
+Quest fails at 0%
+Intrusion Reward
+Intrusion Remaining
+Total Quest Reward
+Reward Remaining
+Time Left
+Reward
+Contract
+Time Limit
+Location
+Main Monsters
+Quest Level
+Goal Condition
+Fail Condition
+Requirements
+Requirements
+Requirements
+Client
+Quest Details
+????????
+★
+★★
+★★★
+★★★★
+★★★★★
+★★★★★★
+★★★★★★★
+★★★★★★★★
+%2d/%2d
+%2d:%02d
+%2d min
+%3d%%
+ -/%2d
+%s%s
+Hunt the %s
+Guild Master
+A dangerous monster has arrived! To go back<NEWLINE>to the village select "Go to village" in the menu.<NEWLINE>~C05The quest reward will still be paid.
+Mat A
+Mat B
+????????
+%3d%%
+???%
+Combine
+Quit
+Send to Box
+Exchange
+Discard
+Success
+Failure
+     Select
+Success Rate
+Result
+%2d/%2d
+??
+??/??
+%003d
+Material
+Order List
+Customize
+Set Order
+???
+%s ∞
+~C02No inventory space.
+Menu
+Please select an item.
+Please select an item.<NEWLINE>~C02No inventory space left.
+Please select an item.<NEWLINE>~C02No space for this item type.
+%s ∞
+%s ×%2d
+You have too many of this item.
+ Equipment Details~C00
+RARE-%d
+RARE-?
+%7dz
+%1d/%1d
+%2d/%2d
+%3d/%3d
+Next
+Item Bag
+Combine　　
+Quest Pouch
+－－－－－－－－
+∞
+~B03Next
+~B03Back
+Status
+Equipment
+Name
+Weapon
+Locatn
+Money
+Yukumo Points
+Guild Points
+HR
+Health
+Stamina
+Attack
+Defense
+Fire Res
+Water Res
+Thndr Res
+Ice Res
+Drgn Res
+:
+Great Sword
+Sword & Shield
+Hammer
+Lance
+Heavy Bowgun
+Medium Bowgun
+Light Bowgun
+Longsword
+Switch Axe
+Gunlance
+Bow
+Dual Blades
+Hunting Horn
+Felyne Drink Skill
+Skill Earned
+Deco
+C
+Skill Info
+Skill Name
+Pts
+?
+ E 
+????
+[Nothing Equipped]
+[No Info]
+Hunter Type
+Hunter Type
+Attack
+%4d
+Shrpnss
++1
+-1
+Slots
+Affinity
+%3d%%
+%s
+%s
+Defense
+Arc Shot
+Reload
+Drift
+Recoil
+LV
+Shelling Lv
+Note
+%d
+%2d
++%2d
+%3d
+Skill 1
+Skill 2
+Blast
+Focus
+Wide
+Slowest
+ExtrSlow
+SuprSlow
+VerySlow
+Slow
+Normal
+Fast
+VeryFast
+SuprFast
+Fastest
+Strngest
+Strong
+Moderate
+Light
+Weak
+VeryWeak
+Weakest
+Weak
+Moderate
+Strong
+Strngest
+None
+Sml/Left
+Lrg/Left
+Sml/Right
+Lrg/Right
+Sml/Left
+Lrg/Left
+Blademaster
+Gunner
+Blade/Gunner
+Armor Type
+ SU
+ XZ
+：~C%02d%s~C00
+Zoom
+Fixd
+Long Barrel
+Silencer
+-
+Load　LV 1  2  3
+~C06LV 1  2
+Load
+~C%02d%sAttrib%s
+~C%02dDefense~C%02d＋%d
+：~C%02d%3d0
+(Total Val)：~C%02d%2d0
+%s~C%02d：%s
+~C%02d%2d
+%s~C%02d%2d
+%s~C%02d/
+%s/
+Power Barrel
+　　Shield
+[Note：       ]
+Charge Attack
+Lvl
+    %s~C%02d%s
+[Slot Details 1]
+[Slot Details 2]
+Usable Coating
+Affinity:
+●
+○
+－
+No Slots
+Open Slots：%s
+1
+2
+3
+Slot
+Lv
+Melody Effect ①
+Melody Effect ②
+Rapid Fire
+Rounds
+Recoil
+None
+Crouch Fire
+Coating Enhance
+None
+Normal
+Pierce
+Pellet
+Crag  
+Clust 
+Recov  S
+Poisn  S
+Para   S
+Sleep  S
+ExhaustS
+Flame  S  
+Water  S  
+Thundr S  
+Freeze S  
+Dragon S  
+Tranq S
+Paint S
+Demon S
+Armor S
+Slicing S
+Fire
+Water
+Thunder
+Dragon
+Ice
+Poison
+Paralyze
+Sleep
+Skill Name     Pts 
+No Skills
+[Normal]
+[Wide]
+[Long]
+Power Phial
+Elemental Phial
+Paralysis Phial
+Dragon Phial
+Exhaust Phial
+Poison Phial
+Poison Effect Up
+Paralysis Effect Up
+Sleep Effect Up
+Exhaust Effect Up
+Rapid LV1
+Rapid LV2
+Rapid LV3
+Rapid LV4
+Rapid LV5
+Spread LV1
+Spread LV2
+Spread LV3
+Spread LV4
+Spread LV5
+Pierce LV1
+Pierce LV2
+Pierce LV3
+Pierce LV4
+Pierce LV5
+Movement Speed Up
+Attack Boost (S)
+Attack Boost (L)
+Defense Boost (S)
+Defense Boost (L)
+Health Boost (S)
+Health Boost (M)
+Health Boost (L)
+Wind Pressure Reduced
+Wind Pressure Negated
+All Wind Pressure Negated
+Negate Stamina Use (S)
+Negate Stamina Use (L)
+Psychic
+Health Recovery (S)
+Health Recovery (M)
+Health Recovery (L)
+Health Rec (M) & Deodorant
+Health Rec (S) & Antidote
+Health Rec (M) & Antidote
+Recovery Speed Up (S)
+Recovery Speed Up (L)
+Divine Protection
+Cold Cancel
+Heat Cancel
+Hearing Protection (S)
+Hearing Protection (L)
+Negate Stun
+Negate Paralysis
+Tremor Resistance
+Elemental Attack Boost
+Fire Res Boost (S)
+Fire Res Boost (L)
+Water Res Boost (S)
+Water Res Boost (L)
+Thunder Res Boost (S)
+Thunder Res Boost (L)
+Ice Res Boost (S)
+Ice Res Boost (L)
+Dragon Res Boost (S)
+Dragon Res Boost (L)
+Sonic Waves
+Melody Durations Extended
+Knockback Protection
+Attack & Defense Boost (S)
+HealthRec(S)&AffinityBoost
+Status Attack Boost
+Abnormal Status Negated
+All Elemental Res Boost
+Blights Negated
+HearProtect(S)&WindNegated
+Snow/Mud Negated
+Nothing found.
+Quest completed!
+You lost your bait.
+Target monster slain!
+Quest item obtained!
+Returning to camp...
+I wonder if there's anything here...
+It's still raw...
+You can't carry any more items.
+You didn't catch anything.
+You couldn't carve anything.
+Supply items were returned.
+Items from Quest Pouch sent to home.
+Heat endurance increased!
+Cold endurance increased!
+Cooling effect has expired!
+Warming effect has expired!
+Speed burst has expired!
+Natural recovery returned to normal!
+Natural recovery has increased!
+Stamina has stopped decreasing!
+Temporarily retreated.
+~C02%s~C00 obtained.
+~C02%s~C00 has decreased!
+~C02%s~C00 achieved!
+~C02%s~C00 at maximum
+~C02%s~C00 has passed out!
+~C02%s~C00 broke!
+~C02%s~C00 was stolen.
+~C02%s~C00 taken back.
+~C02%s~C00 delivered.
+~C02%s~C00 has been made.
+~C02%s~C00 obtained
+~C02%s~C00 caught!
+~C02%s~C00 has been dropped.
+~C02%s~C00 received.
+~C02%s~C00 has broken.
+~C02%s~C00 is at maximum. Unable to carry any more.
+~C02%s~C00 given.
+~C02%s~C00 all given.
+~C02%s~C00 has bitten!
+~C02%s~C00 is really hot!
+~C02%s~C00 fainted!
+~C02%s~C00 has caught a fish!
+~C02%s~C00 is handing you an item!
+~C02%s~C00 broke off from the group!
+Award: ~C02%s~C00 obtained
+~C02%s×%d~C00 received.
+A relief...
+~C02%s×%2d~C00 has been made.
+~C02%s×%2d~C00 caught!!!
+~C02%s×%d~C00 obtained.
+Your Item Bag is full!
+There is nothing else here.
+Total reward: 0z.
+You've fallen unconscious.
+Total reward: 0z.
+No continues remaining.
+Weapon power has decreased!
+Weapon power has increased!
+Sharpness is at maximum!
+Beginning Quest
+Preparing Quest
+ＱＵＥＳＴ　ＣＬＥＡＲ！
+ＱＵＥＳＴ　ＦＡＩＬＥＤ！
+ＱＵＥＳＴ　ＲＥＴＩＲＥ！
+Dummy
+Island
+Plains
+Forest
+Tundra
+Volcano
+Desert
+Canyon
+Arena
+SmArena
+Sacred
+Polar
+Peaks
+Summit
+Island
+Plains
+Forest
+Tundra
+Volcano
+Peaks
+<D>
+<N>
+No
+HR 2 & Up
+HR 3 & Up
+HR 4 & Up
+HR 5 & Up
+HR 6 & Up
+Great Sword-Only Quest
+Lance-Only Quest
+Hammer-Only Quest
+Sword-Only Quest
+Bowgun-Only Quest
+Dual Blades-Only Quest
+Long Sword-Only Quest
+Gunlance-Only Quest
+Hunting Horn-Only Quest
+Bow-Only Quest
+Switch Axe-Only Quest
+Weapon-Only Quest
+Quest for one hunter.
+Quest for two hunters or less.
+Quest for three hunters or less.
+None
+Torso Up
+Poison
+Paralysis
+Sleep
+Stun
+Mud/Snow
+Sense
+Health
+Rec Speed
+Sharpness
+Handicraft
+Fencing
+Expert
+Sharpener
+Guard
+Guard Up
+Auto-Guard
+Reload Spd
+Recoil
+Normal Up
+Pierce Up
+Pellet Up
+Normal S+
+Pierce S+
+Pellet S+
+Crag S+
+Clust S+
+Status
+ElementAtk
+Bomb Boost
+Hunger
+Gluttony
+Attack
+Defense
+Protection
+Hearing
+Anti-Theft
+Wide-Range
+Transportr
+Fire Res
+Water Res
+ThunderRes
+Ice Res
+Dragon Res
+Heat Res
+Cold Res
+Wind Res
+Gathering
+Spd Gather
+Whim
+Fate
+Psychic
+Rec Level
+Combo Rate
+Combo Plus
+Evasion
+Potential
+LastingPwr
+Stamina
+Loading
+Precision
+Eating
+Carving
+Tremor Res
+Evade Dist
+Crit Draw
+SpeedSetup
+Constitutn
+Tranquilzr
+Perception
+FastCharge
+PunishDraw
+Blight Res
+Survivor
+Rapid Fire
+Dungmaster
+Antiseptic
+Poison C+
+Para C+
+Sleep C+
+Power C+
+C.Range C+
+Maestro
+Artillery
+Gloves Off
+Ranger
+Def Lock
+Fire Atk
+Water Atk
+ThunderAtk
+Ice Atk
+Dragon Atk
+Slice S+
+Exhaust C+
+Tenderizer
+Destroyer
+KO
+Stam Drain
+Sheathing
+Stam Recov
+No Skill
+Negate Poison
+Double Poison
+Negate Paralysis
+Double Paralysis
+Negate Sleep
+Double Sleep
+Halve Stun
+Negate Stun
+Double Stun
+Negate Mud/Snow
+Sneak
+Taunt
+Health +20
+Health +50
+Health -10
+Health -30
+Recovery Spd +1
+Recovery Spd +2
+Recovery Spd -1
+Recovery Spd -2
+Razor Sharp
+Blunt Edge
+Sharpness +1
+Mind's Eye
+Critical Eye +1
+Critical Eye +2
+Critical Eye +3
+Critical Eye -1
+Critical Eye -2
+Critical Eye -3
+Speed Sharpening
+Slow Sharpening
+Guard +1
+Guard +2
+Guard -1
+Guard Boost
+Auto-Guard
+Reload Speed +1
+Reload Speed +2
+Reload Speed +3
+Reload Speed -1
+Reload Speed -2 
+Reload Speed -3 
+Recoil Down +1
+Recoil Down +2
+Recoil Down +3
+Recoil Down -1
+Recoil Down -2
+Recoil Down -3
+Normal/Rapid Up
+Pierce/Pierce Up
+Pellet/Spread Up
+Use Any Normal
+Use Lv1 Pierce S
+Use Any Pierce S
+Use Lv1 Pellet S
+Use Any Pellet S
+Use Lv1 Crag S
+Use Any Crag S
+Use Lv1 Clust S
+Use Any Clust S
+Status Atk +1
+Status Atk +2
+Status Atk Down
+Element Atk +1
+Element Atk Down
+Bombardier
+Halve Hunger
+Negate Hunger
+Raise Hunger
+Double Hunger
+Gourmand
+Scavenger
+Attack Up（S）
+Attack Up（M）
+Attack Up（L）
+Attack Down（S）
+Attack Down（M）
+Attack Down（L）
+Defense Up（S）
+Defense Up（M）
+Defense Up（L）
+Defense Down（S）
+Defense Down（M）
+Defense Down（L）
+Divine Blessing
+Demonic Blessing
+Earplugs
+HG Earplugs
+Anti-Theft
+Wide-Range +1
+Wide-Range +2
+Pro Transporter
+Fire Res +5
+Fire Res +10
+Fire Res -10
+Water Res +5
+Water Res +10
+Water Res -10
+Thunder Res +5
+Thunder Res +10
+Thunder Res -10
+Ice Res +5
+Ice Res +10
+Ice Res -10
+Dragon Res +5
+Dragon Res +10
+Dragon Res -10
+Heat Cancel
+Heat Surge
+Cold Cancel
+Cold Surge
+Windproof (Lo)
+Windproof (Hi)
+Gathering +1
+Gathering +2
+Gathering -1
+Speed Gatherer
+Spirit's Whim
+Divine Whim
+Spectre's Whim
+Devil's Whim
+Good Luck
+Great Luck
+Bad Luck
+Horrible Luck
+Detect
+Autotracker
+Recovery Up
+Recovery Down
+Combination +20%
+Combination +45%
+Combination -10%
+Combination -20%
+Combination Pro
+Evasion +1
+Evasion +2
+Evasion Down
+Adrenaline +1 
+Adrenaline +2
+Worrywort
+Item Use Up
+Item Use Down
+Marathon Runner
+Short Sprinter
+Load Up
+Steadiness +1
+Steadiness +2
+Steadiness -1
+Steadiness -2
+Speed Eating +1
+Speed Eating +2
+Slow Eater
+Carving Master
+Tremor Resistance
+Evade Extender
+Critical Draw
+Trap Master
+Constitution +1
+Constitution +2
+Constitution -1
+Constitution -2
+Capture Expert
+Capture Master
+Capture Guru
+Focus
+Distraction
+Punishing Draw
+Blights Negated
+Fortify
+Bonus Shot
+Dung Bomb Expert
+Antiseptic
+Use Poison Coat
+Use Para Coat
+Use Sleep Coat
+Use Power Coat
+Use C.Range Coat
+Horn Maestro
+Artillery Novice
+Artillery King
+Latent Power +1
+Latent Power +2
+Outdoorsman
+Iron Skin
+Fire Atk +1
+Fire Atk +2
+Fire Atk Down
+Water Atk +1
+Water Atk +2
+Water Atk Down
+Thunder Atk +1
+Thunder Atk +2
+Thunder Atk Down
+Ice Atk +1
+Ice Atk +2
+Ice Atk Down
+Dragon Atk +1
+Dragon Atk +2
+Dragon Atk Down
+Use Slicing S
+Use Exhaust Coat
+Weakness Exploit
+Partbreaker
+Knockout King
+Stamina Thief
+Quick Sheathe
+Stam Recov Up
+Stam Recov Down
+No Skill
+Felyne Carver（Hi）
+Felyne Carver（Lo）
+Felyne Medic
+Felyne Black Belt
+Felyne Pyro
+Felyne Specialist
+Felyne Defender（Hi）
+Felyne Defender（Lo）
+Felyne Hornblower
+Felyne Woodsman
+Felyne Charisma
+Felyne Combiner（Hi）
+Felyne Combiner（Lo）
+Felyne Gatherer
+Felyne Sharpshooter
+Ultra Lucky Cat
+Lucky Cat
+Felyne Heroics
+Felyne Great Break
+Felyne Escape Artist
+Felyne Hurler
+Felyne Courage
+Felyne Supercat
+Felyne Strongcat
+Felyne Weakener
+Felyne Explorer
+Felyne Exchanger
+Felyne Riser（Hi）
+Felyne Riser（Lo）
+Felyne Temper
+Felyne Kickboxer
+Felyne Fighter
+Felyne Vine Master
+Felyne Vine Climber
+Felyne Supercarver
+Felyne Lander
+Felyne Dancer
+Felyne Bulldozer
+Felyne Retention
+Felyne Slugger
+Crazy Lucky Cat
+Felyne Blaster
+Felyne Bombardier
+Felyne Moxie
+Felyne Dungmaster
+Felyne Groomer
+Felyne Firewalker
+Felyne Slider
+Felyne Oracle
+Felyne Polisher
+Felyne Atk Up（Sm）
+Felyne Atk Up（Med）
+Felyne Atk Up（Lg）
+Felyne Def Up（Sm）
+Felyne Def Up（Med）
+Felyne Def Up（Lg）
+Fire Res Up
+Water Res Up
+Thunder Res Up
+Ice Res Up
+Dragon Res Up
+Felyne Acrobat
+Felyne Gamechanger
+Felyne Trainer
+Felyne Booster
+Felyne Supplier
+Felyne Insomniac
+Felyne Balancer
+Felyne Fisher
+LANGUAGE
+SOUND
+BGM LEVEL
+SFX LEVEL
+QUICK CONTINUE
+SCREEN EFFECTS
+EFFECTS
+DEFAULT SETTINGS
+~B09Slot　~B01Rtrn
+~B00Decide　~B01Rtrn
+ENGLISH
+GERMAN
+FRENCH
+SPANISH
+ITALIAN
+STEREO
+DOLBY PRO LOGIC Ⅱ
+BOOST
+MIN
+MAX
+OFF
+ON
+NORMAL
+REDUCED
+Select the language for in-game text.
+Stereo selected.<NEWLINE>The standard method to play audio. Suitable for<NEWLINE>PSP~B11 (PlayStation~B11Portable) and headphone output.
+Set BGM output volume.
+Set sound effect output volume.
+Selecting ON will simplify the character selection<NEWLINE>screen and shorten loading times.
+Set various screen effects.<NEWLINE>３Ｄ Stereoscopic mode will be disabled.
+Set the visual effects.<NEWLINE>Normal blood and critical flash effects.
+Return all options to their default settings.
+DOLBY PRO LOGIC II selected.<NEWLINE>Enjoy surround sound when connected to a<NEWLINE>Dolby Professional Logic II enabled AV device.
+BOOST selected.<NEWLINE>Suitable for TV speaker output.
+Select sound output settings.<NEWLINE>Enjoy surround sound when connected to a<NEWLINE>Dolby Professional Logic II enabled AV device.
+Select sound output settings.<NEWLINE>BOOST is suitable for TV speaker output.
+Return to Game Menu.
+Set the visual effects.<NEWLINE>Lower blood and critical flash effects.
+Selecting ON will simplify the character selection.<NEWLINE>screen and shorten loading times.
+Use installed data to load faster when using UMD~B11. You'll<NEWLINE>need to have used ~C05Media Install~C00 on the main menu first.<NEWLINE>~C02This will probably cause crashes and translation bugs!
+Selected STEREO.<NEWLINE>Standard method to play the audio.<NEWLINE>Best for playing with headphones.
+Add a glow effect to the<NEWLINE>whole screen.
+Turn OFF Light Bloom effect.
+Objects in the distance<NEWLINE>appear blurred.
+Turn OFF Depth of Field effect.
+WLAN/WIRELESS is turned OFF!
+Open Item Bag and check current<NEWLINE>Item inventory.
+Combine items.
+Examine your Combo List.
+Check status and conditions<NEWLINE>of current quest.
+Check current status and equipment of<NEWLINE>Comrades. When in the Online Hall,<NEWLINE>give Comrades to other hunters too!
+Pause game.
+Check your current status.
+View details of your equipment.
+Examine your Monster List.
+Change various game options.
+Select the action you'd like<NEWLINE>to perform
+Quit the current quest and<NEWLINE>return to the village.
+Recheck the advice.
+Select the action you'd like<NEWLINE>to perform
+Check your Guild Card.
+Edit your Guild Card.
+Send your Guild Card to another<NEWLINE>hunter.
+Open Card List and check another<NEWLINE>hunter's Guild Card.
+Review a Felyne's status information.
+Review a Felyne's equipment.
+Give your Comrade<NEWLINE>to another hunter.
+Dismiss a Comrade.
+Please select a Felyne.
+Please select a hunter.
+Please select a Felyne.
+~C02Felyne is on a quest!<NEWLINE>~C00
+Please select Felyne.<NEWLINE>~C02Cannot do this!~C00
+Options
+Status Display
+Map Display
+Initial Camera View
+Camera Settings
+Scope Targeting
+Aiming Controls
+Camera Type
+Mid-Evasion Type
+Sight Type
+Sound
+Screen Effects
+DEFAULT SETTINGS
+ＯＮ
+ＯＦＦ
+ＯＦＦ
+ＯＮ
+NORMAL
+REVERSE1
+REVERSE2
+TYPE1
+TYPE2
+TYPE3
+TYPE4
+TYPE5
+STEREO
+DPLⅡ
+BOOST
+AUTO
+MANUAL
+Display the HUD.
+Don't display the HUD.
+Display the map.
+Don't display the map.
+Sets the view of the camera at the<NEWLINE>beginning of the quest to look<NEWLINE>steeply down.
+Sets the view of the camera at the<NEWLINE>beginning of the quest to look<NEWLINE>down.
+Sets the view of the camera at the<NEWLINE>beginning of the quest to look<NEWLINE>slightly down.
+Sets the view of the camera at the<NEWLINE>beginning of the quest to look<NEWLINE>straight.
+Sets the view of the camera at the<NEWLINE>beginning of the quest to look<NEWLINE>up.
+Left/right are normal.<NEWLINE>Up/down are normal.
+Left/right are normal.<NEWLINE>Up/down are reversed.
+Left/right are reversed.<NEWLINE>Up/down are reversed.
+Settings for camera movement<NEWLINE>when using a scope.
+Settings for camera movement<NEWLINE>when using a scope.
+Settings for camera movement<NEWLINE>when using a scope.
+Settings for simple aiming<NEWLINE>of the Bowgun or final aim<NEWLINE>adjustments for the Bow.
+Settings for simple aiming<NEWLINE>of the Bowgun or final aim<NEWLINE>adjustments for the Bow.
+Settings for simple aiming<NEWLINE>of the Bowgun or final aim<NEWLINE>adjustments for the Bow.
+Settings for the camera type when<NEWLINE>simple aiming of the Bowgun or<NEWLINE>final aim adjustments for the Bow.
+Settings for the camera type when<NEWLINE>simple aiming of the Bowgun or<NEWLINE>final aim adjustments for the Bow.
+Settings for the camera type when<NEWLINE>simple aiming of the Bowgun or<NEWLINE>final aim adjustments for the Bow.
+Pressing forward on the analogue<NEWLINE>stick, a dodge will go in the<NEWLINE>direction the hunter is facing.
+Pressing forward on the analogue<NEWLINE>stick, a dodge will go in the<NEWLINE>direction the camera is facing.
+Adjust Bowgun Shoulder Sight<NEWLINE>settings.
+Adjust Bowgun Shoulder Sight<NEWLINE>settings.
+Adjust Bowgun Shoulder Sight<NEWLINE>settings.
+Automatically select Hall.<NEWLINE>Use this for convenience in quiet<NEWLINE>areas with few other MHP3 players<NEWLINE>around.
+Manually select Hall.<NEWLINE>Use this in busy areas or when<NEWLINE>playing online (via adhocParty,<NEWLINE>Xlink Kai, or prometheus for<NEWLINE>example).
+Select sound output settings.<NEWLINE>Standard setting.<NEWLINE>Select when using headphones.
+Select sound output settings.<NEWLINE>Enjoy surround sound when<NEWLINE>connected to a<NEWLINE>Dolby Professional Logic II<NEWLINE>enabled AV device.
+Select sound output settings.<NEWLINE>BOOST is suitable for<NEWLINE>TV speaker output.
+Load all data off the UMD~B11 or<NEWLINE>Memory Stick Duo~B10.
+Simultaneously load from the UMD~B11<NEWLINE>and Memory Stick Duo~B10 to<NEWLINE>shorten load times.<NEWLINE>~C02Using media install will probably<NEWLINE>cause crashes and translation bugs!<NEWLINE>It's incompatible with the plugin!
+Set various screen effects.<NEWLINE><NEWLINE>３Ｄ Stereoscopic mode<NEWLINE>will be disabled.
+Return all options to their default<NEWLINE>settings.
+Return all options to their default<NEWLINE>settings?
+Add a glow effect to the<NEWLINE>whole screen.
+Turn OFF Light Bloom effect.
+Objects in the distance<NEWLINE>appear blurred.
+Turn OFF Depth of Field<NEWLINE>effect.
+Select an item to send to<NEWLINE>the Item Box.
+Item has been sent.
+~C02The Item Box is full. 
+Do you want to sort your items?
+Communication has disconnected.
+Discard selected item?
+Select hunter.
+Is this OK?
+Select the number to give.
+Please select the number of items<NEWLINE>you would like to deliver.
+Deliver these items?
+Sort items?
+Select item destination.
+~C10Unknown
+Unknown
+~C02You have no materials.
+~C02You cannot carry any more<NEWLINE>of this item.
+~C02There is no room in your<NEWLINE>Item Bag.
+You cannot carry any more items.<NEWLINE>Please select a course of action.
+Which item do you want<NEWLINE>to exchange?
+Exchange with this item?
+The Supply items in the<NEWLINE>preparation.
+Do you want to return<NEWLINE>to the initial state?
+~C02The Item Box is full. 
+1
+1～2
+2
+1～3
+2～4
+3
+5
+1～3
+Greet
+Bow
+Nod
+Shrug
+Wave
+Clap
+Cheer
+Point
+Lament
+Rant
+Kick Back
+Shadowbox
+Taunt
+Flaunt
+Prance
+Dance
+Gestures
+Yukumo Village（Offline）
+Guild Hall
+Hall
+~C00Press ~B00 to continue
+Value:
+Total Sale:
+Village Chief's Braid
+Village Chief's Hairpin
+Village Chief's Buckle
+Village Chief's Robe
+Jasper Box
+Storm Robe
+King's Crown
+Miniature Crown
+Copper Felyne Doll
+Silver Felyne Doll
+Gold Felyne Doll
+Expert's Manual
+Ecology Report
+Hunter's Diary
+Yukumo Scarecrow
+Comrade Banner
+Attendant's Fan
+Wyverian Artisan's Hammer
+Comrade Blacksmith Helm
+Great Felvine
+Letter to my Master
+Rosary of World Domination
+Hunter's Crest
+Proof of a Hunter
+2ndG Hunting Proof
+Selct
+Exit
+<Battle Training>
+<Special Training>
+<Group Training>
+<G Rank Training>
+Yian Kut-Ku Training
+Congalala Training
+Khezu Training
+Daimyo Hermitaur Training
+Blangonga Training
+Yian Garuga Training
+Tigrex Training
+Diablos Training
+Gravios Training
+Kirin Training
+Cephadrome Training
+Plesioth Training
+Shogun Ceanataur Training
+Rathalos Training
+Rajang Training
+Cephadrome Exercises
+Rathian Exercises
+Shogun Ceanataur Exercises
+Tigrex Exercises
+Hypnoc Training
+Green Congalala Training
+PurDaimyoHermitaur Training
+Naruga Kuruga Training
+Brown Blangonga Training
+Volganos Training
+RedShogunCeanataur Training
+Rajang Training
+dummy
+Receive Item
+Send to Item Box
+End
+Comrade Status
+Level
+Master
+Lineage
+Loyalty
+Atk Style
+Targets
+Character
+Comment
+Special
+Comrade Equipment
+Bonus Skills
+Special:
+Special:
+Comrade Points
+Skill Slots
+Slots
+Skill
+Skill Level
+pts
+Comrade1
+Comrade2
+－－－－－－
+LV
+Weapn
+Helm
+Plate
+[Active]
+[Standby]
+Atk Type
+[Weapon]
+[Boomerang]
+Slash
+Impact
+Enter a description
+Kogath
+Gato
+Almond
+Ashley
+Hero
+Annie
+PDelta
+Emmanuel
+Carrie
+Khan
+Kid
+Lion
+Cage
+Crystal
+Cloud
+Kain
+Adelaine
+Conan
+Shiva
+Xander
+Jaks
+Robson
+Raylan
+Silvia
+Damimav
+Scott
+Xena
+Diana
+Damian
+Rob
+Chibi
+Kenshiro
+David
+Timothy
+Telly
+Blue
+Thomas
+Ohmy
+Light
+Tom
+Dora
+Natalie
+Maximus
+Patricia
+Hank
+Pete
+Luka
+Zack
+Fay
+Blake
+Helga
+Boyd
+Brandon
+Mack
+Marco
+Mai
+Micha
+Milo
+Soul
+Yoshitsune
+Rafael
+Rey
+Leon
+Laura
+Oscar
+Bear
+Kenma
+Bucky
+Kojiro
+Simon
+Mario
+Jessica
+Jasper
+Anna
+Kogapi
+Luigi
+Ginger
+Enric
+Spike
+Sebastian
+Sofie
+Charlie
+Tracy
+Hanzo
+Benkei
+Holly
+Maggie
+Masamune
+Misty
+Janet
+Molly
+Florian
+Ryu
+Lilly
+Laurie
+Rocky
+Akira
+Ashie
+Allen
+Izumi
+Udon
+Edge
+Ramen
+Earv
+Omar
+Origami
+Cactus
+Gaccha
+Garr
+Carrot
+Carnie
+Garon
+Gilgamesh
+Kinchyaku
+Kuu
+Keima
+Kianna
+Kemari
+Heart
+Kotaro
+Cotton
+Koma
+Cornette
+Siren
+Zack
+Ming
+Salsa
+Sancho
+Samba
+Yakedo
+Chiffon
+Sugar
+Jungiku
+Jiraiya
+Shirataki
+Cymbal
+Steve
+Smash
+Tiger
+Dyne
+Kurenai
+Duncan
+Tango
+Chime
+Tsumiki
+Texas
+Denka
+Tofu
+Thorne
+Summer
+Nelle
+Hakusai
+Puzzle
+Patata
+Honey
+Cat-Cat
+Hayato
+Barrel
+Peter
+Piko
+Hinata
+Hyou
+Felmy
+Flannel
+Bruce
+Belle
+Velvet
+Acantha
+Bogey
+Polka
+darkakantor
+Holmes
+Twin_Master
+Bond
+Mike
+Mew
+Miko
+Meryl
+Muslin
+blackflare
+Monsieur
+Rocker
+Xeros
+Latte
+Ryuuto
+Lynn
+Siobhán
+Remy
+Rock
+Persian
+Ron
+Watson
+Hunter
+Comrade
+Demon Flute
+Armor Flute
+Cure Flute
+Health Flute
+True Health Flute
+Elemental Attack Up
+Status Atk [Poison]
+StatusAtk [Paralysis]
+Status Atk [Sleep]
+Abn Status Atk Up
+Mud/Snow Quick Rec
+Poison Negate
+Wind Negate
+Earplug
+Earplugs/Wind Negate
+Attack Up（S）
+Attack Up (L)
+Defense Up（S）
+Defense Up (L)
+Health Up（S）
+Health Up (L)
+Guard Up（S）
+Guard Up (L)
+Affinity Boost
+Rob'em Blind
+Shock Trap
+Felvine Bomb
+Large Barrel Bomb
+Bomb Strength Up
+Bomb Dmg Reduction
+Boomerang Up
+Pierce Boomerang
+Cannon/Ballista Up
+Quick Riser
+Seven Lives
+Last Stand
+Resist Fire
+Resist Water
+Resist Thunder
+Resist Ice
+Resist Dragon
+Resist all
+Clairvoyance
+Speedy Gathering
+Speedy Recovery
+Hunter
+Workaholic
+Take a Break
+Copycat
+Trap Bombing
+Buddy's Concern
+Friendship
+AttackUp, DefDown
+DefUp, AttackDown
+CritUp, DefDown
+HP Up,FireResDwn
+FireResUp,DrgResDwn
+FireResUp,WatrResDwn
+ThndrResUp,HP Dwn
+IceResUp,ThndrResDwn
+DrgnResUp, CritDwn
+Atk / Def Boost!
+Increased Speed!
+Guard Rate Up!
+Affinity Boost!
+Steal Rate Up!
+Weapon Only
+Bombs Only
+Boomerangs Only
+Melee & Bomb
+Melee & Boomerang
+Bomb & Boomerang
+Does Not Attack
+Comrade will never use bombs and<NEWLINE>only attack directly.
+Comrade will mostly use bombs<NEWLINE>and occasionally use his weapon.
+Comrade will always use boomerang's<NEWLINE>and attack from a distance.
+Comrade will use weapons and bombs<NEWLINE>always attack directly.
+Comrade will use weapons and<NEWLINE>boomerang's to attack directly<NEWLINE>and from distance.
+Comrade will use bombs and<NEWLINE>boomerang's to attack directly<NEWLINE>and from distance.
+Comrade never attacks. (They will<NEWLINE>still attack you to shake off<NEWLINE>KO, sleep, etc.)
+Small First
+Small Sooner
+Balanced
+Large Sooner
+Large First
+Small monsters first. If there are<NEWLINE>no small monsters, it will start<NEWLINE>attacking larger ones.
+Prefers smaller monsters.<NEWLINE>Will still sometimes attack<NEWLINE>larger monsters.
+Attacks small and large<NEWLINE>monsters in equal balance.
+Prefers larger monsters.<NEWLINE>Will still sometimes attack<NEWLINE>smaller monsters.
+Large monsters first. If there are<NEWLINE>no large monsters, it will start<NEWLINE>attacking small ones.
+Courageous
+Cunning
+Timid
+Loyal
+Chancy
+Persistant
+Pacifist
+When large monsters are in sight,<NEWLINE>it will start attacking without<NEWLINE>regard for its own health.
+When monster is enraged or hunter<NEWLINE>has low health, Felyne will<NEWLINE>attract the monster.
+When danger approaches, it will<NEWLINE>disappear by digging into the<NEWLINE>ground.
+When hunter's health is low,<NEWLINE>Felyne will attack with bombs.
+If large monsters are in a<NEWLINE>dying state, shock, flinch etc.<NEWLINE>Felyne will attack rapidly.
+When monster is enraged or<NEWLINE>Felyne has low health,<NEWLINE>it'll dig and recover quickly.
+Felyne does not attack, only<NEWLINE>supports the Hunters.
+Felyne
+Tea Felyne
+Lemon
+Grape
+Muscot
+Orange
+Melynx
+Black Melynx
+Yellow Melynx
+Moody
+Secret
+Short Hair
+Tea Tiger
+Yellow Tiger
+Ash Tiger
+Silver Tiger
+Fresh Tiger
+Red Tiger
+White
+Black
+Deep Blue
+Tea
+Brown
+Jet Black
+Pink
+Blue
+Peppermint
+Gold
+Blk & White
+Tea Spots
+Blue Spots
+Red Spots
+Purple
+Deep Sea
+Item Shop
+Travelling Peddler
+Farm Manager
+Farm Felyne
+Drink Stand
+Mega BBQ Spit
+Felyne Mining
+Mining Point
+Field
+Felyne Granny
+Comrade Blacksmith
+MonNyan Wagon
+Felyne Bug Catching
+Insect Trapper
+Bee Hive
+Equipment Shop
+Blacksmith
+Felyne Fishing
+Fishing Net
+Mushroom Logs
+Quest Counter
+Hot Spring Felyne
+Training School
+Village Chief
+Hunter's Store
+Pawn Talisman
+Bishop Talisman
+Knight Talisman
+Rook Talisman
+Queen Talisman
+King Talisman
+Dragon Talisman
+A talisman worn by a common<NEWLINE>soldier. Said to bring its<NEWLINE>wearer good luck.
+A talisman made by a foreign<NEWLINE>bishop who prayed for victory.<NEWLINE>Wards off disaster.
+An award talisman given to<NEWLINE>knights. Brings the wearer<NEWLINE>great glory.
+A talisman made from immobile<NEWLINE>ramparts that protected the<NEWLINE>city for centuries.
+A talisman made for a queen<NEWLINE>who ruled during a golden era.<NEWLINE>Contains regal wisdom.
+The talisman of a king who<NEWLINE>ruled the world. The wearer<NEWLINE>gains both wisdom and power.
+An iridescent talisman made<NEWLINE>from a dragon's eye. Grants<NEWLINE>the power of a dragon.
+Miracle Milk
+Miracle Macchiato
+Lucky Yogurt
+Lucky Lassi
+Celebri-tea
+Hako Beer
+Wine Sample
+Bokobo Kola
+Bokosu Squash
+Liferoot Juice
+Sni-Punch
+Hard Rice Tea [Zigzag]
+Hard Rice Tea [Badger]
+Hard Tea [Turret]
+Hard Tea [Millennium]
+Hot Red Bean Soup
+Mineral Water
+Thunder Cider
+Frozen Milk
+Dragon Tea
+Yukumo Milk Coffee
+Yukumo Lemon Soda
+Yukumo Cooled Candy
+Today's Special!
+Comrade Equipment
+Comrade Destinations
+Comrade1
+Comrade2
+Status
+Equipment
+Give
+Dismiss
+The same Comrade already exists.
+FULL!
+Comrade Box is full.
+Hunter
+Light Bloom
+Depth of Field
+Screen Effects
+ON
+OFF
+ＯＮ
+ＯＦＦ
