@@ -1,39 +1,38 @@
 เช็ค เมมโมรี่สติ๊ก Duo~B10.<NEWLINE><NEWLINE>อย่า ปิดเกมจนจะโหลดเสร็จ PSP~B11 <NEWLINE>ระบบจะลบข้อมูล Duo~B10.
 โหลดเสร็จ
-ข้อมูลเกมเสียหาย
-มีพื้นที่ว่างไม่เพียงพอ<NEWLINE>บน เมมโมรี่สติ๊ก Duo~B10.
-คุณต้องการที่จะบันทึก?
-~A00ต้องใช้ KB เพื่อบันทึกข้อมูลนี้<NEWLINE>ลบข้อมูลอื่นและสร้างพื้นที่ว่างหรือไม่?
+Game data is corrupted.
+Not enough free space available<NEWLINE>on Memory Stick Duo~B10.
+Would you like to save?
+~A00KB is required to save this data.<NEWLINE>Delete other data and create free space?
 บันทึกตัวละครนี้?
 โปรดเลือกสถานที่บันทึกเซฟ
-กรุณาอย่าถอด เมมโมรี่สติ๊ก~B10<NEWLINE>ขณะเล่น Monster Hunter Portable 3rd~B11.
-มีตัวละครอยู่แล้ว <NEWLINE> ลบตัวละครที่บันทึกไว้ก่อนหน้านี้หรือไม่?
-คุณต้องการบันทึกที่นี่หรือไม่?
-ไม่พบข้อมูลตัวละคร<NEWLINE>กรุณาใส่ เมมโมรี่สติ๊กDuo~B10<NEWLINE>ที่มีข้อมูลเกมที่บันทึกไว้ก่อนหน้านี้
+Please do not remove the Memory Stick Duo~B10<NEWLINE>while playing Monster Hunter Portable 3rd~B11.
+Character already exists.<NEWLINE>Delete previously saved character?
+Would you like to save here?
+No character data found.<NEWLINE>Please insert the Memory Stick Duo~B10<NEWLINE>containing previously saved Game data. 
 โหลด ตัวละคร?
-ตัวละครที่เลือก <NEWLINE>กรุณาอย่าถอด เมมโมรี่สติ๊ก~B10<NEWLINE>ขณะเล่น Monster Hunter Portable 3rd~B11.
+ตัวละครที่เลือก <NEWLINE>Please do not remove the Memory Stick Duo~B10<NEWLINE>while playing Monster Hunter Portable 3rd~B11.
 เวลา
 ชาย
 หญิง
 เงิน
-เซฟ ว่าง
-เซฟ...<NEWLINE><NEWLINE>อย่าลบข้อมูลของ <NEWLINE>เมมโมรี่สติ๊ก Duo~B10. 
+เซฟว่าง
+Saving...<NEWLINE><NEWLINE>Please do not remove the<NEWLINE>Memory Stick Duo~B10. 
 ASNISE PATCH<NEWLINE><NEWLINE>Version: ~C03PS3 v5.0.0~C00 (~C06r28~C00)<NEWLINE>Language: ~C04TH_th<NEWLINE>~C00Built using ~C08MHP3 Patch Compiler v1.0<NEWLINE>~C052013-06-15 23:4:64
-เกมนี้ต้องประหยัดอย่างน้อย ~A00KB to save.<NEWLINE>ดำเนินการต่อหรือไม่?
-บันทึกการตั้งค่าเกมหรือไม่?
-มีข้อมูลเกมใน เมมโมรี่สติ๊ก Duo~B10.<NEWLINE>ตกลงที่จะเขียนทับข้อมูลนี้หรือไม่?
-เลือก ตัวละคร.
-เมมโมรี่สติ๊ก ที่ใช้เริ่ม <NEWLINE>ไม่ได้ใส่เกมนี้<NEWLINE>กรุณาใส่ เมมโมรี่สติ๊ก Duo~B10<NEWLINE>ใช้ในการเริ่มเกมนี้
-เซฟ เกม
-ออก เกม?
-หากคุณออกจากตอนนี้โดยไม่บันทึก<NEWLINE>ไอเทมและเงิน（Z）<NEWLINE>ที่คุณได้รับจะหายไป
-ลบข้อมูลเกมที่เสียหายไหม
-บันทึกสถานะแกลเลอรีไหม
-%s<NEWLINE>ไม่สามารถโหลดข้อมูลที่ติดตั้ง<NEWLINE>ข้อมูลทั้งหมดจะถูกโหลดจาก UMD<NEWLINE><NEWLINE>ตัวเลือกการติดตั้งข้อมูลถูกเปลี่ยนเป็น<NEWLINE>"OFF".
-
-ไม่พบ เมมโมรี่สติ๊กDuo~B10
-ไม่พบข้อมูลการติดตั้งข้อมูล
-ข้อมูลการติดตั้งสื่อเสียหาย <NEWLINE>โปรดติดตั้งข้อมูลการติดตั้งอีกครั้ง
+This game requires at least ~A00KB to save.<NEWLINE>Continue?
+Save Game Settings?
+There is already Game data on the Memory Stick Duo~B10.<NEWLINE>OK to overwrite this data?
+เลือกตัวละคร
+The Memory Stick Duo~B10 used to start<NEWLINE>this game is not inserted.<NEWLINE>Please insert the Memory Stick Duo~B10<NEWLINE>used to start this game.
+เซฟเกม
+ออกเกม?
+If you quit now without saving,<NEWLINE>all items and any money（Z）<NEWLINE>you've earned will be lost.
+Delete corrupted Game data?
+Save Gallery status?
+%s<NEWLINE>Unable to load Installed Data.<NEWLINE>All data will be loaded from the UMD.<NEWLINE><NEWLINE>Data Install Option has been switched to<NEWLINE>"OFF".
+No Memory Stick Duo~B10 found.
+No Media Install data found.
+Media Install data is corrupted.<NEWLINE>Please re-install the Media Install data.
 %s<NEWLINE>Install Data load failed mid-Quest.<NEWLINE>All data will be loaded from the UMD~B11.<NEWLINE><NEWLINE>Data Install Option has been switched to<NEWLINE>"OFF".
 No Memory Stick Duo~B10 found.
 No Media Install data found.
@@ -50,5 +49,5 @@ Abort loading?
 　Save　　~B12~C34Exit without saving~C00~B13
 The Memory Stick Duo~B10 was removed.
 Checking the Memory Stick Duo~B10<NEWLINE>Please do not remove the Memory Stick Duo~B10.
-เซฟ...<NEWLINE><NEWLINE>อย่าลบข้อมูลของ <NEWLINE>เมมโมรี่สติ๊ก Duo~B10.
+Saving...<NEWLINE>Please do not remove the Memory Stick Duo~B10.
 Could not load the quest data<NEWLINE>from the Memory Stick Duo~B10.<NEWLINE><NEWLINE>Do you want to display the<NEWLINE>included bonus content?
